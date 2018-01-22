@@ -1,0 +1,6 @@
+http://www.piano-midi.de/midisearch.php
+http://www.bachcentral.com/midiindexcomplete.html
+
+
+works for bach folder, not the group of composers
+https://rexrainbow.github.io/C2Demo/MIDI%20to%20CSV/index.html
